@@ -5,23 +5,37 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- displays site properly based on user's device -->
 
   <link rel="icon" type="image/png" sizes="32x32" href="./images/favicon-32x32.png">
-  
+  <link href='https://fonts.googleapis.com/css?family=Outfit' rel='stylesheet'>
+
   <title>Frontend Mentor | QR code component</title>
 
   <!-- Feel free to remove these styles or customise in your own stylesheet 👍 -->
+   <!-- Consider making styles.css file for project-->
+    <!--attribution class is for bottom text for project-->
   <style>
+    body{background-color: hsl(212, 45%, 89%);}
+    .box{background-color: hsl(0, 0%, 100%); height: auto; border-radius: 20px; margin: auto; width: 200px; height: auto; padding: 15px;}
+    img{max-width: 100%; height: auto; border-radius: 10px;}
+    p.text1 {text-align: center; font-family: "outfit"; color: hsl(218, 44%, 22%); font-weight: 700;}
+    p.text2 {font-size: 12px; text-align: center; font-family: "outfit"; color: hsl(220, 15%, 55%); font-weight: 400;}
     .attribution { font-size: 11px; text-align: center; }
     .attribution a { color: hsl(228, 45%, 44%); }
   </style>
 </head>
 <body>
-  Improve your front-end skills by building projects
+  <div class="box">
+  <!--Need to contain all elements into a single box. Answer: use div-->
+  <!--Insert QR image
+  Image needs rounded corners and contained in box-->
+        <img src="image-qr-code.png">
+  <!--Make first text line bold-->
+        <p class="text1">Improve your front-end skills by building projects</p>
 
-  Scan the QR code to visit Frontend Mentor and take your coding skills to the next level
-  
+        <p class="text2">Scan the QR code to visit Frontend Mentor and take your coding skills to the next level</p>
+  </div>
   <div class="attribution">
     Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>. 
-    Coded by <a href="#">Your Name Here</a>.
+    Coded by <a href="https://github.com/Ryan-OHanlon/qr-code-component-main">Ryan O'Hanlon</a>.
   </div>
 </body>
 </html>
