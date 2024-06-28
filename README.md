@@ -54,4 +54,4 @@ I'd like to continue to develop my knowledge of how to manipulate text and CSS h
 
 - Website - [Ryan O'Hanlon](https://ryan-ohanlon.github.io/)
 - Frontend Mentor - [@Ryan-OHanlon](https://www.frontendmentor.io/profile/ryan-ohanlon)
-- Twitter - [@RyanROHanlon](https://www.twitter.com/ryanrohanlon
+- Twitter - [@RyanROHanlon](https://www.twitter.com/ryanrohanlon)
