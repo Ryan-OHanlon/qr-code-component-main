@@ -19,8 +19,8 @@
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/qr-code-component-using-styles-in-html-xaKWp5aP9L](https://www.frontendmentor.io/solutions/qr-code-component-using-styles-in-html-xaKWp5aP9L)
+- Live Site URL: [https://ryan-ohanlon.github.io/qr-code-component-main/]](https://ryan-ohanlon.github.io/qr-code-component-main/)
 
 ## My process
 
